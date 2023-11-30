@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## About Me
+
+I am beginner web developer. In my projects I use tools like *[VUE.js](https://vue.js)*, *SASS*, *Node.js*, *PHP*.
+
+I'm still learning and developing my skills.
+
 <!--
 **TymoteuszNachtman/TymoteuszNachtman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
