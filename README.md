@@ -6,7 +6,7 @@ Fan of web programming and IT Technologies. Reliable, honest, who likes organise
 
 IT Technician by education, focused on programming, developing applications and graphics.
 
-Beginning this beautiful journey of web development. Still learning and developing my skills.
+Beginning this beautiful journey of web development. Still learning and developing skills.
 
 
 
