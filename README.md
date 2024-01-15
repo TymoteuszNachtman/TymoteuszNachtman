@@ -26,17 +26,20 @@ CSS:
 - *Sass*,
 - *Tailwind.css*,
 - *Bootstrap*
+- *DaisyUI*
 
 Other programming languages:
 
 - *PHP*
 - *Python*
+- *Java*
 
 Other tools:
 
 - *WordPress*
 - *Git*
 - *npm*
+- *MS Office*
 
 ## Rules that are no stranger to me
 
