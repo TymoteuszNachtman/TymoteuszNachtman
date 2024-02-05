@@ -6,7 +6,7 @@ Fan of web programming and IT Technologies. Reliable, honest, who likes organise
 
 IT Technician by education, focused on programming, developing applications and graphics.
 
-Beginning this beautiful journey of web development. Still learning and developing skills.
+Happily discovering new possibilities and continuously climbing up in tech skills. Encountering new challenges and targeting more complex problems.
 
 
 
@@ -30,7 +30,7 @@ CSS:
 
 Other programming languages:
 
-- *PHP*
+- *PHP* with *Laravel*
 - *Python*
 - *Java*
 
