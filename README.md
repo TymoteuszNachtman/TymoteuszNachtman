@@ -1,4 +1,4 @@
-### Hi there 👋 Glad, you've come to visit!
+### Hi there 👋 I'm glad, you've come to visit!
 
 ## About Me
 
@@ -31,7 +31,7 @@ CSS:
 Other programming languages:
 
 - *PHP* with *Laravel*
-- *Python*
+- *Python 3*
 - *Java*
 
 Other tools:
@@ -43,9 +43,9 @@ Other tools:
 
 ## Rules that are no stranger to me
 
-I understand OOP paradigm (used in PHP, but not only). I learn to follow best coding practices like SOLID, DRY, KISS, NeverNesting.
+I understand OOP paradigm (used in PHP, but not only). I learn to follow best coding practices like SOLID, DRY, KISS, NeverNesting. I understand MVC - used in Laravel. 
 
-I like organising my code and still working on getting better.
+I like organising my code and developing my skills. 
 
 
 <!--
