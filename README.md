@@ -1,16 +1,20 @@
 ### Hi there 👋 I'm glad, you've come to visit!
 
+- 🔭 I’m currently working on Laravel 11 app with InertiaJS and Vue 3 support 
+- 🌱 I’m currently learning DevOps skills
+- 👯 I’m looking to collaborate on all listed below :)
+
 ## About Me
 
-Fan of web programming and IT Technologies. Reliable, honest, who likes organised work. I'm a fast learner and curious of the IT world. 
-
-IT Technician by education, focused on programming, developing applications and graphics.
+Ambitious web developer with broad IT skills. Reliable, honest, who likes organised work. I'm a fast learner and curious of the IT world. 
 
 Happily discovering new possibilities and continuously climbing up in tech skills. Encountering new challenges and targeting more complex problems.
 
+I like board games ♟ and autumn nature 🍂
 
 
-## Tools I use (or used) in my projects
+
+## Tools I use in my projects
 
 JavaScript:
 
@@ -43,7 +47,7 @@ Other tools:
 
 ## Rules that are no stranger to me
 
-I understand OOP paradigm (used in PHP, but not only). I learn to follow best coding practices like SOLID, DRY, KISS, NeverNesting. I understand MVC - used in Laravel. 
+I understand OOP paradigm (used in PHP, but not only). I learn to follow best coding practices like SOLID, DRY, KISS, NeverNesting. I understand MVC, TDD, CI/CD. 
 
 I like organising my code and developing my skills. 
 
